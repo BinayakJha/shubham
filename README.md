@@ -1,4 +1,2 @@
-# my new portfolio 
+# Shubham Portfolio
 
-
-link: https://binayakjha.com.np/
